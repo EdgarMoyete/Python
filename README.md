@@ -1,2 +1,2 @@
 # Python
-Programas basicos en Python: fundamentos de programacion, programacion orientada a obejtos y estructura de datos
+Programas basicos en Python: Fundamentos de programacion, programacion orientada a objetos y estructuras de datos
