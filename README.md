@@ -1,5 +1,4 @@
 # Python
-Programas basicos en Python:
 
 ### Fundamentos de programacion
 * Operaciones
@@ -57,12 +56,15 @@ Programas basicos en Python:
 * Django
 * Flask
 * FastAPI
+* Request
+* SQLAlchemy
 
 ### Ciencia de Datos
 * Pandas
 * Numpy
 * Matplotlib
 * Seaborn
+* Scipy
 
 ### Machine learning
 * Scikit-learn
