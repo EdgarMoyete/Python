@@ -1,0 +1,3 @@
+Este perro archivo es para aprender archivos en Python
+Yo tengo un perro que es muy perro para encontrar drogas en las maletas.
+Mi perro come carne asada.

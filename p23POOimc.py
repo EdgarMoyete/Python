@@ -25,5 +25,9 @@ class Obesidad:
 	def informacion(self):
 		return "Peso:", self.peso, "Altura:", self.altura, "IMC:", self.imc(), "Interpretacion:", self.interpretacion()
 
+	def __str__(self):
+		return "{} {}".format(self.peso, self.altura)
+
 o = Obesidad(86, 1.68)
 print(o.informacion())
+print(o.__str__())

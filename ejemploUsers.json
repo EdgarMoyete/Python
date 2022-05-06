@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "nombre": "edgar",
+        "correo": "edgar@empresa.com",
+        "password": "12345",
+        "edad": 26
+    },
+    {
+        "id": 1,
+        "nombre": "moises",
+        "correo": "moises@empresa.com",
+        "password": "qwer",
+        "edad": 24
+    },
+    {
+        "id": 2,
+        "nombre": "messi",
+        "correo": "messi@empresa.com",
+        "password": "asd",
+        "edad": 35
+    },
+    {
+        "id": 3,
+        "nombre": "cristiano",
+        "correo": "ronaldo@empresa.com",
+        "password": "zxcvbnm",
+        "edad": 19
+    }
+]
