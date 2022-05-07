@@ -56,6 +56,7 @@
 * Django
 * Flask
 * FastAPI
+* SQL
 * Request
 * SQLAlchemy
 
